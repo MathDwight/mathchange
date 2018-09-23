@@ -1,4 +1,4 @@
-## Welcome to MathDwight.com--old
+## Welcome to MathDwight.com
 
 You can use the [editor on GitHub](https://github.com/MathDwight/mathdwight/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
